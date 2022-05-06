@@ -1,0 +1,13 @@
+<div id="advertissement_borwser" style="
+position: fixed;
+display: block;
+top: 0.25rem;
+right: 0.25rem;
+background-color: rgba(0,0,0,0.6);
+border: 1px solid rgba(0,0,0,1);
+color: white;
+padding: 1rem;
+border-radius: 0.3rem;
+">
+Site fonctionnant non compatible avec Edge &lt;= 90
+</div>

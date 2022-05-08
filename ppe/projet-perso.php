@@ -44,6 +44,9 @@
         <div class="row gy-4">
 
           <div class="col-lg-8">
+              <div class="retour">
+                <a class="text-warning  btn btn-outline-primary" href="../index.php"> <i class="bi bi-arrow-left"></i> Retour</a>
+              </div>
             <div class="portfolio-details-slider swiper">
               <div class="swiper-wrapper align-items-center">
 

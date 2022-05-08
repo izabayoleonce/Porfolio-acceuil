@@ -9,12 +9,11 @@
 </head>
 <body>
     <header class="topbar">
-        <a href="../index.html" class="topbar-logo">Horloge</a>
+        <a href="../index.php" class="topbar-logo">Horloge</a>
         <nav class="topbar-nav">
-            <a href="../index.html">Heure et date</a>
-            <a href="../autre/chrono.html" class="active">Chronometre</a>
-            <a href="../autre/minuteur.html">Minuteur</a>
-            <a href="../autre/alarm.html">alarme</a>
+            <a href="../index.php">Heure et date</a>
+            <a href="../autre/minuteur.php">Minuteur</a>
+            <a href="../autre/alarm.php">alarme</a>
         </nav>
     </header>
     

@@ -44,6 +44,9 @@
         <div class="row gy-4">
 
           <div class="col-lg-8">
+              <div class="retour">
+                <a class="text-warning  btn btn-outline-primary" href="../index.php"> <i class="bi bi-arrow-left"></i> Retour</a>
+              </div>
             <div class="portfolio-details-slider swiper">
               <div class="swiper-wrapper align-items-center">
 
@@ -73,7 +76,6 @@
                 <li><strong>Project date</strong>: 28 Février 2022</li>
                 <li><strong>Project URL</strong>: <a class="btn btn-outline-warning" href="http://51.178.86.117:8083/stage/bde/">Acceder</a></li>
               </ul>
-              <div class="btn-group"><a class="btn btn-outline-success" href="">Télécharger</a></div>
             </div>
             <div class="portfolio-description">
               <h2>Détail du projet </h2>

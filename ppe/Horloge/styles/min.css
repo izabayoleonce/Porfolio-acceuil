@@ -13,10 +13,11 @@ body{
     width: 700px;
     right: 600px;
     margin: 0 auto;
-    border: 5px solid #88B169;
+    background-color: #1C1C10;
+    border: 5px solid #696741;
     justify-content: center;
     align-items: center;
-
+    color: #3C5A69;
     display: grid;
     grid-template-columns: repeat(5, 1fr);
     grid-template-rows: repeat(3, 1fr);

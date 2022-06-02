@@ -46,7 +46,7 @@
         <div class="section-title">
           <h2>A Propos</h2>
           <h3>Formation</h3>
-          <p>Je fais une formation en SLAM, je compte devenir un informaticien complet en poursuivant aprés le BTS une licence en infromatique générale afin d'integrer un Masters en ingenierie du Smart Bulding. Alors je souhaite integrer une ecole d'ingenier informatioque</p>
+          <p>Je fais une formation en SLAM, je compte devenir un informaticien complet en poursuivant après le BTS une licence en informatique générale afin d'intégrer un master en ingénierie du Smart building. Alors je souhaite intégrer une école d'ingénier informatique</p>
         </div>
 
         <div class="row">
@@ -56,7 +56,7 @@
           <div class="col-lg-8 pt-4 pt-lg-0 content">
             <h3> En ce qui me concerne</h3>
             <p class="fst-italic">
-            Je suis etudiant en BTS SIO; j'ai 21 ans, je suis passionné par l'informatique et les film d'action
+            Je suis étudiant en BTS SIO; j'ai 21 ans, je suis passionné par l'informatique et les films d'action
             </p>
             <div class="row">
               <div class="col-lg-6">
@@ -74,8 +74,8 @@
               </div>
             </div>
             <h3>Metier</h3>
-            <p>
-            Je vise à m'integer dans les systeme embarquer et/ou la domatique, cars je suis curieur de connaitre les relation que homme aurant avec les inteligence artificielle dans l'avenire et je serais au premier loge pour le voir en étant dans dans ce secteur.
+            <p class="fst-italic">
+            Je vise à m'integer dans les systèmes embarqués et/ou la domotique, cars je suis curieux de connaitre les relations que l'homme aura avec les intelligences artificielles dans l'avenir et je serais au premier loge pour le voir en étant dans ce secteur.
             </p>
           </div>
           <a class="btn cvleo" href="./document/Leonce_IZABAYO_CV.pdf"><i class="bx bx-news"></i>CV</a>
@@ -139,8 +139,8 @@
               <div class="panier-principal"> 
                 <h5><br>information sur L'entreprise</br></h5>
                 <p><span> CD MEDIA, est une PME sous la forme d’une Société à responsabilité limitée (sans autre indication) créée le 30/11/2013.</span>
-                <span>L’établissement est spécialisé en Programmation informatique et son effectif est compris entre Etablissement non employeur (pas de salarié au cours de l'année de référence et pas d'effectif au 31/12).</span> 
-                <span>CD MEDIA se trouve dans la commune de Nice dans le département Alpes Maritimes (06)</span></p>
+                <span>L'établissement est spécialisé en Programmation informatique et son effectif est compris entre Etablissement non employeur (pas de salarié au cours de l'année de référence et pas d'effectif au 31/12).</span> 
+                <span>CD MEDIA se trouve dans la commune de Nice dans le département Alpes-Maritimes (06)</span></p>
               </div>
               <div class="panier-second">
                 <h5><br>Information sur le stage</br></h5>
@@ -162,7 +162,7 @@
         </div>
     </section><!-- End Facts Section -->
 
-    <!-- ======= Skills Section ======= -->
+    <!-- ======= logiciel/competence Section ======= -->
     <section id="skills" class="skills section-bg">
       <div class="container" data-aos="fade-up">
 
@@ -542,6 +542,12 @@
           </div>
 
         </div>
+        <div class="container tableau-synthese">
+          <div class="bouton">
+            <a href="./document/Annexe-6-1-Tableau-de-synthese-Epreuve-E4-BTS-SIO-2022.pdf" class="btn btn-dark">Mon Tableau de synthèse</a>
+          </div>
+
+        </div>
 
       </div>
     </section><!-- End Portfolio Section -->
@@ -554,77 +560,11 @@
           <h2>Veille</h2>
         </div>
 
-        <!-- <div class="testimonials-slider swiper" data-aos="fade-up" data-aos-delay="100">
-          <div class="swiper-wrapper">
-
-            <div class="swiper-slide">
-              <div class="testimonial-item">
-                <img src="styles/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
-                <h3>Saul Goodman</h3>
-                <h4>Ceo &amp; Founder</h4>
-                <p>
-                  <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
-                  <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-                </p>
-              </div>
-            </div><!-- End testimonial item 
-
-            <div class="swiper-slide">
-              <div class="testimonial-item">
-                <img src="styles/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
-                <h3>Sara Wilsson</h3>
-                <h4>Designer</h4>
-                <p>
-                  <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.
-                  <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-                </p>
-              </div>
-            </div><!-- End testimonial item 
-
-            <div class="swiper-slide">
-              <div class="testimonial-item">
-                <img src="styles/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
-                <h3>Jena Karlis</h3>
-                <h4>Store Owner</h4>
-                <p>
-                  <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint minim.
-                  <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-                </p>
-              </div>
-            </div><!-- End testimonial item 
-
-            <div class="swiper-slide">
-              <div class="testimonial-item">
-                <img src="styles/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
-                <h3>Matt Brandon</h3>
-                <h4>Freelancer</h4>
-                <p>
-                  <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.
-                  <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-                </p>
-              </div>
-            </div><!-- End testimonial item 
-
-            <div class="swiper-slide">
-              <div class="testimonial-item">
-                <img src="styles/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
-                <h3>John Larson</h3>
-                <h4>Entrepreneur</h4>
-                <p>
-                  <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.
-                  <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-                </p>
-              </div>
-            </div><!-- End testimonial item 
-
-          </div>
-          <div class="swiper-pagination"></div>
-        </div> -->
+       <div class="contener content">
+         <div class="text-center">
+           <p>Ma Veille se porte sur le classement de 8 meilleurs langages utilisés en 2022</p>
+         </div>
+       </div>
 
         <div class="accordion accordion-flush" id="accordionFlushExample">
           <ol>
@@ -639,8 +579,7 @@
                 <div class="accordion-body">
                   <p>
                     <img src="image/language/Java.jpg" alt=""  width="700" height="324">
-                      <p> Depuis sa création au milieu des années 90, </p>
-                  </p>
+                      <p class="text-content"></p>
                 </div>
               </div>
             </div>
@@ -655,7 +594,8 @@
                 <div class="accordion-body">
                   <p>
                     <img src="image/language/Python.png" alt="" width="700" height="324">
-                    <p></p>
+                    <p>
+                    </p>
                   </p>
                 </div>
               </div>
@@ -671,7 +611,8 @@
                 <div class="accordion-body">
                   <p>
                     <img src="image/language/c++.png" alt="" width="700" height="324">
-                    <p></p>
+                    <p>
+                    </p>
                   </p>
                 </div>
               </div>
@@ -758,7 +699,8 @@
             </div>
           </ol>
         </div>
-
+        <div class="text-center"><iframe src="https://www.codeur.com/blog/top-langages-de-programmation" width="600" height="450" right="350" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+            </div>
         <a class="btn ref_veille" href="https://www.codeur.com/blog/top-langages-de-programmation">Référence</a>
       </div>
 

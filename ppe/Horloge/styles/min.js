@@ -22,45 +22,14 @@ function updateTime() {
 
     display.innerText=`${hour} : ${minutes} : ${seconds}`
 }
-/*
-function formatTime(time) {
-    if ( time < 10 ) {
-        return '0' + time;
-    }
-    return time;
-}
 
-function setAlarmTime(value) {
-    alarmTime = value;
-}
-
-function setAlarm() {
-    if(alarmTime) {
-        const current = new Date();
-        const timeToAlarm = new Date(alarmTime);
-
-        if (timeToAlarm > current) {
-            const timeout = timeToAlarm.getTime() - current.getTime();
-            alarmTimeout = setTimeout(() => audio.play(), timeout);
-            alert('Alarm set');
-        }
-    }
-}
-
-function clearAlarm() {
-    audio.pause();
-    if (alarmTimeout) {
-        clearTimeout(alarmTimeout);
-        alert('Alarm cleared');
-    }
-}*/
 
 setInterval(updateTime, 1000);
-//store a reference to the startTimer variable
+//Declaration de la varible sartTime
 let startTimer = null;
 
 start.addEventListener('click', function(){
-    //initialize the variable
+    //initialise la variable
     function startInterval(){
         startTimer = setInterval(function() {
             timer();
@@ -73,7 +42,7 @@ reset.addEventListener('click', function(){
     h.value = 00;
     m.value = 00;
     s.value = 00;
-    //stop the timer after pressing "reset"
+    //arrêter le chronomètre après avoir appuyé sur "reset"
     stopInterval()
 })
 
@@ -96,7 +65,7 @@ function timer(){
 }
 
 //stop the function after pressing the reset button, 
-//so the time wont go down when selecting a new time after pressing reset
+//de sorte que le temps ne descende pas lors de la sélection d'un nouveau temps après avoir appuyé sur réinitialiser
 function stopInterval() {
     clearInterval(startTimer);
 }
